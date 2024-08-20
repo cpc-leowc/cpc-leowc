@@ -4,7 +4,7 @@
 
 - 👀 I’m currently working on DotNetCore, EFCore, MinimalApi, Azure
 - 🌱 I’m currently learning Docker, TS, Blazor
-- 💞️ I’m looking to collaborate on SASS development
+- 💞️ I’m looking to collaborate on SaaS development
 
 
 <!---
